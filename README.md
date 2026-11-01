@@ -1,26 +1,23 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=210&section=header&text=Yerosen%20Tamrat&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CS%20Student%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=60" alt="Yerosen Tamrat banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=210&section=header&text=Yerosen%20Tamrat&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20Web%20%26%20Mobile%20Apps%20%C2%B7%20AI%20Automation&descSize=18&descAlignY=60" alt="Yerosen Tamrat banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=Full-stack+web+apps+with+React+%26+Next.js;3D+game+dev+in+Java+%2F+LWJGL;200%2B+LeetCode+problems+solved;Open+to+software+engineering+internships" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=640&lines=Web+%26+mobile+apps%2C+from+idea+to+deployed;AI+agents+%26+Telegram+bots;React+%C2%B7+Flutter+%C2%B7+Next.js+%C2%B7+Python;Available+for+new+projects" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
+  <a href="mailto:yerosentamrat4545@gmail.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Work%20with%20me-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Work with me" /></a>
   <a href="https://yerosen-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/yerosen-tamrat-457142265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/yerosentamrat/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:yerosentamrat4545@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=flat-square" alt="Open to internships" />
-  <img src="https://img.shields.io/badge/GPA-3.9%20%2F%204.0-7C3AED?style=flat-square" alt="GPA 3.9" />
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode 200+" />
-  <img src="https://img.shields.io/badge/Addis%20Ababa-Ethiopia-06B6D4?style=flat-square&logo=googlemaps&logoColor=white" alt="Addis Ababa, Ethiopia" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20projects-22C55E?style=flat-square" alt="Available for projects" />
+  <img src="https://img.shields.io/badge/Stack-React%20%C2%B7%20Flutter%20%C2%B7%20Python-7C3AED?style=flat-square" alt="Stack" />
 </p>
 
 <br/>
@@ -28,42 +25,37 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 👋 About me
 
-```ts
-const yerosen = {
-  role:       "CS student & full-stack builder",
-  school:     "American College of Technology · BSc Computer Science (2024 – 2028)",
-  gpa:        "3.9 / 4.0",
-  program:    "A2SV software engineering program (2026)",
-  based:      "Addis Ababa, Ethiopia 🇪🇹",
-  learning:   ["System Design", "Next.js", "TypeScript"],
-  lookingFor: "Software engineering internship + open-source to contribute to",
-};
-```
+I'm Yerosen, a software developer. I take an idea from an empty repo to something live: the interface people see, the logic behind it, sign-in, data, and deployment.
+
+Lately that has meant a media app with email and Google sign-in, an AI agent that reads Telegram chats and sends back summaries, an Android app that turns screen time into a daily verdict, and a niche tool for Ethiopian kirar music. The projects look different, but the habits are the same: ship something working early, keep the scope clear, and leave behind code that someone else can run.
+
+If you have a product to launch, a repetitive process to automate, or an idea that needs a first working version, I'd like to hear about it.
 
 <br/>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 🚀 Featured projects
+<!-- ═══════════════════════════ SERVICES ═══════════════════════════ -->
+## 🧰 What I can build for you
+
+| | What you get | Built with | See it in |
+|---|---|---|---|
+| **🌐 Websites & web apps** | Landing pages, dashboards and member areas with login, designed to look finished and to work on a phone | React, Next.js, Tailwind, Supabase, Vercel | [Laura](https://github.com/yerosentamrat63/Laura---Free-Movie-Streaming-site), [Portfolio](https://github.com/yerosentamrat63/Yerosen_Tamrat_portfolio) |
+| **📱 Mobile apps** | Android apps with native features like usage data, home-screen widgets and reminders | Flutter, Dart, Kotlin | [Hindsight](https://github.com/yerosentamrat63/hindsight) |
+| **🤖 AI & automation** | Agents and bots that read, summarize and act on your messages or data, so nobody does it by hand | Python, Groq and other LLM APIs, Telegram (Telethon), Render | [Telegram Agent](https://github.com/yerosentamrat63/telegram-agent), [Hindsight](https://github.com/yerosentamrat63/hindsight) |
+| **🛠️ Custom tools** | Focused tools built around a specific domain or workflow | Web or Java, depending on the job | [Kirar Melody Finder](https://github.com/yerosentamrat63/kirar-melody-finder), [City Racer](https://github.com/yerosentamrat63/city-racer) |
+
+<br/>
+
+<!-- ═══════════════════════════ WORK ═══════════════════════════ -->
+## 🚀 Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 [HindSight](https://github.com/yerosentamrat63/hindsight)
-**An honest screen-time mirror with zero judgment and real AI verdicts.** Android app built with Flutter, Material 3, and Kotlin UsageStats. Features live home screen widgets, AI daily roasts and summaries across Groq/Claude/OpenAI/Gemini, zero tracking, and on-device API key encryption.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android_14+-3DDC84?style=flat-square&logo=android&logoColor=white)
-![AI Verdicts](https://img.shields.io/badge/AI_Verdicts-Groq_|_Claude_|_Gemini-F55036?style=flat-square)
-
-🔗 [Code](https://github.com/yerosentamrat63/hindsight)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎬 [Laura](https://github.com/yerosentamrat63/Laura---Free-Movie-Streaming-site)
-**Netflix-style streaming app** with a Nothing.tech-inspired editorial design. Genre filters, live search (Ctrl/Cmd + K), watchlist, an anime section, and automatic failover between embedded players.
+**A media browsing app with a clean, responsive interface.** Browse by genre, search instantly (Ctrl/Cmd + K), keep a watchlist, and sign in with email or Google.
+
+*What it shows:* front-end polish, real authentication, and a live deployment.
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -73,38 +65,12 @@ const yerosen = {
 🔗 [**Live demo**](https://laura-drab.vercel.app) · [Code](https://github.com/yerosentamrat63/Laura---Free-Movie-Streaming-site)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [NetMog](https://github.com/yerosentamrat63/NetMog)
-**LAN control tool for Windows 10/11.** Discover every device on your network, inspect traffic, cut or restore connectivity per device, and measure bandwidth limits directly from a lightweight local web dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Networking](https://img.shields.io/badge/ARP_|_Scapy-00599C?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows_10/11-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-🔗 [Code](https://github.com/yerosentamrat63/NetMog)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚕 [City Racer](https://github.com/yerosentamrat63/city-racer)
-**3D passenger-delivery driving game.** Drive a van through a city, pick up passengers at green markers, drop them off at yellow ones, dodge traffic, and score as many deliveries as you can before time or lives run out.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![LWJGL](https://img.shields.io/badge/LWJGL_3-1F6FEB?style=flat-square)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
-🔗 [Code](https://github.com/yerosentamrat63/city-racer)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [Telegram Agent](https://github.com/yerosentamrat63/telegram-agent)
-**Personal AI agent that summarizes your Telegram chats and channels.** Ask in plain English or use `/summarize` for the last N messages, or only the unread ones. Runs as a single-user bot, deployed on Render's free tier.
+**Too many chats to read?** Ask the agent in plain English, or with `/summarize`, for a summary of any chat or channel: the last N messages, or only what's unread.
+
+*What it shows:* LLM integration, bot development, and a cloud deployment with a documented setup.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-26A5E4?style=flat-square&logo=telegram&logoColor=white)
@@ -114,12 +80,31 @@ const yerosen = {
 🔗 [Code](https://github.com/yerosentamrat63/telegram-agent)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [Hindsight](https://github.com/yerosentamrat63/hindsight)
+**Screen time, judged.** An Android app that sorts your phone use into wasted, neutral and productive against your own goal, then turns it into a daily verdict and a shareable weekly receipt. The app does the math; an AI model only writes the wording.
+
+*What it shows:* native Android features (usage data, home-screen widgets, reminders) and AI integration that supports several providers, with an optional server-side proxy so API keys never ship inside the app.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20development-F59E0B?style=flat-square)
+
+🔗 [Code](https://github.com/yerosentamrat63/hindsight)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🎶 [Kirar Melody Finder](https://github.com/yerosentamrat63/kirar-melody-finder)
-**A ቅኝት (mode) finder for the Ethiopian kirar.** Work out which ቅኝት a melody uses after you hear it. Live today and still gaining features.
+**A ቅኝት (mode) finder for the Ethiopian kirar.** Work out which ቅኝት a melody uses after you hear it.
 
-![Status](https://img.shields.io/badge/Status-In%20development-F59E0B?style=flat-square)
+*What it shows:* building a specialised tool around a real domain, shipped live and still improving.
+
+![Status](https://img.shields.io/badge/Status-Live%20%C2%B7%20In%20development-F59E0B?style=flat-square)
 
 🔗 [**Live demo**](https://kirar-melody-finder.vercel.app) · [Code](https://github.com/yerosentamrat63/kirar-melody-finder)
 
@@ -127,23 +112,42 @@ const yerosen = {
 </tr>
 </table>
 
+<p align="center"><sub>Also built: <a href="https://github.com/yerosentamrat63/city-racer"><b>City Racer</b></a>, a 3D passenger-delivery game in Java and LWJGL 3.</sub></p>
+
+<br/>
+
+<!-- ═══════════════════════════ HOW I WORK ═══════════════════════════ -->
+## 🤝 How I work
+
+- **Scope first.** We agree on what "done" looks like before I write code.
+- **Live early.** I deploy from the start, so you can click through a real version instead of reading status updates.
+- **Clean handoff.** Every project gets a README, an example env file and setup steps, so anyone can run it after me.
+- **Plain updates.** No jargon, and I tell you early if something will take longer.
+
 <br/>
 
 <!-- ═══════════════════════════ TECH ═══════════════════════════ -->
-## 🛠️ Tech I use
+## 🛠️ Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,python,java,js,ts,cpp,react,nextjs,vite,tailwind,supabase,git,github&perline=16" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,dart,kotlin,react,nextjs,flutter,vite,tailwind,supabase,vercel,cloudflare,git,github&perline=9" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <sub><b>Mobile & Web</b> Flutter · Dart · Android (Kotlin) · React · Next.js · Vite · Tailwind &nbsp;|&nbsp; <b>Languages</b> Python · Java · JS/TS · C++ &nbsp;|&nbsp; <b>Backend & AI</b> Supabase · Groq · Telethon · TMDB · OpenGL</sub>
+  <sub><b>Languages</b> Python · Java · JavaScript · TypeScript · Dart · Kotlin · C++ &nbsp;|&nbsp; <b>Web</b> React · Next.js · Vite · Tailwind &nbsp;|&nbsp; <b>Mobile</b> Flutter &nbsp;|&nbsp; <b>Services</b> Supabase · Cloudflare Workers · Groq · Telethon · TMDB &nbsp;|&nbsp; <b>Graphics</b> LWJGL 3 · OpenGL</sub>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════ PROBLEM SOLVING ═══════════════════════════ -->
-## 🧠 Problem solving
+<!-- ═══════════════════════════ BACKGROUND ═══════════════════════════ -->
+## 🎓 Background
+
+BSc Computer Science student at American College of Technology (2024 – 2028), with coursework in databases, OOP with Java, networking and computer architecture. I trained in the A2SV software engineering program in 2026 and practice algorithms regularly.
+
+<details>
+<summary><b>Problem solving and GitHub activity</b></summary>
+
+<br/>
 
 <p align="center">
   <a href="https://leetcode.com/u/yerosentamrat/">
@@ -152,22 +156,15 @@ const yerosen = {
 </p>
 
 <p align="center">
-  Every solution lives in <a href="https://github.com/yerosentamrat63/DSA"><b>yerosentamrat63/DSA</b></a>: arrays, two pointers, sliding window, linked lists, trees and more, with 700+ commits.
+  Every solution lives in <a href="https://github.com/yerosentamrat63/DSA"><b>yerosentamrat63/DSA</b></a>.
 </p>
-
-<br/>
-
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=yerosentamrat63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=yerosentamrat63&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yerosentamrat63&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
-</p>
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yerosentamrat63/yerosentamrat63/output/github-contribution-grid-snake-dark.svg">
@@ -178,12 +175,16 @@ const yerosen = {
 <br/>
 
 <!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
-## 📫 Let's connect
+## 📫 Let's talk about your project
+
+Send me a short email with **what you want built, a rough deadline, and a budget range**. I'll reply with questions or a plan.
 
 <p align="center">
-  Hiring for an internship, or building something open source? I'd love to hear about it.<br/>
-  <a href="mailto:yerosentamrat4545@gmail.com"><b>Email me</b></a> · <a href="https://www.linkedin.com/in/yerosen-tamrat-457142265/"><b>LinkedIn</b></a> · <a href="https://yerosen-portfolio.vercel.app"><b>Portfolio</b></a>
+  <a href="mailto:yerosentamrat4545@gmail.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email%20me-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/yerosen-tamrat-457142265/"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+<p align="center"><sub>Also open to software engineering internships.</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Footer banner" />
