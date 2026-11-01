@@ -49,6 +49,19 @@ const yerosen = {
 <tr>
 <td width="50%" valign="top">
 
+### 📱 [HindSight](https://github.com/yerosentamrat63/hindsight)
+**An honest screen-time mirror with zero judgment and real AI verdicts.** Android app built with Flutter, Material 3, and Kotlin UsageStats. Features live home screen widgets, AI daily roasts and summaries across Groq/Claude/OpenAI/Gemini, zero tracking, and on-device API key encryption.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android_14+-3DDC84?style=flat-square&logo=android&logoColor=white)
+![AI Verdicts](https://img.shields.io/badge/AI_Verdicts-Groq_|_Claude_|_Gemini-F55036?style=flat-square)
+
+🔗 [Code](https://github.com/yerosentamrat63/hindsight)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎬 [Laura](https://github.com/yerosentamrat63/Laura---Free-Movie-Streaming-site)
 **Netflix-style streaming app** with a Nothing.tech-inspired editorial design. Genre filters, live search (Ctrl/Cmd + K), watchlist, an anime section, and automatic failover between embedded players.
 
@@ -58,6 +71,20 @@ const yerosen = {
 ![TMDB](https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square)
 
 🔗 [**Live demo**](https://laura-drab.vercel.app) · [Code](https://github.com/yerosentamrat63/Laura---Free-Movie-Streaming-site)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [NetMog](https://github.com/yerosentamrat63/NetMog)
+**LAN control tool for Windows 10/11.** Discover every device on your network, inspect traffic, cut or restore connectivity per device, and measure bandwidth limits directly from a lightweight local web dashboard.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Networking](https://img.shields.io/badge/ARP_|_Scapy-00599C?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows_10/11-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+🔗 [Code](https://github.com/yerosentamrat63/NetMog)
 
 </td>
 <td width="50%" valign="top">
@@ -106,11 +133,11 @@ const yerosen = {
 ## 🛠️ Tech I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,react,nextjs,vite,tailwind,supabase,vercel,git,github&perline=13" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,python,java,js,ts,cpp,react,nextjs,vite,tailwind,supabase,git,github&perline=16" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <sub><b>Languages</b> Python · Java · JavaScript · TypeScript · C++ &nbsp;|&nbsp; <b>Web</b> React · Next.js · Vite · Tailwind &nbsp;|&nbsp; <b>Services</b> Supabase · Groq · Telethon · TMDB &nbsp;|&nbsp; <b>Graphics</b> LWJGL 3 · OpenGL</sub>
+  <sub><b>Mobile & Web</b> Flutter · Dart · Android (Kotlin) · React · Next.js · Vite · Tailwind &nbsp;|&nbsp; <b>Languages</b> Python · Java · JS/TS · C++ &nbsp;|&nbsp; <b>Backend & AI</b> Supabase · Groq · Telethon · TMDB · OpenGL</sub>
 </p>
 
 <br/>
@@ -134,12 +161,12 @@ const yerosen = {
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerosentamrat63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yerosentamrat63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=yerosentamrat63&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerosentamrat63&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yerosentamrat63&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
 </p>
 
 <picture>
