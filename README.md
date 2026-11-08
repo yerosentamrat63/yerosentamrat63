@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=210&section=header&text=Yerosen%20Tamrat&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20Web%20%26%20Mobile%20Apps%20%C2%B7%20AI%20Automation&descSize=18&descAlignY=60" alt="Yerosen Tamrat banner" />
+  <img src="./assets/banner.svg" alt="Yerosen Tamrat banner" />
 </p>
 
 <p align="center">
